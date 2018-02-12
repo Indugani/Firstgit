@@ -1,0 +1,8 @@
+git init                          -- initalizing the repo
+git add "file_name"               --moves file from working directory to Staging area
+git commit -m "message"           -- moves file from staging Local git repo
+git push  				          -- moves file from local git repo to remote git repo
+git remote add origin URL         -- configures (adding)remote repo to local repo 
+git config --global user.email "induvenkat443@gmail.com"  -- configures user email id globally
+git config --global user.name   ---configures our user name  globally
+git branch   					-- listing all our local repo branches
